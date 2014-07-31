@@ -1,5 +1,7 @@
 # Greshunkel
 
+_"I fueled this fire with a thousand gallons of premium octane gasoline." - Kyle Terry_
+
 ## Install
 
 ```bash
